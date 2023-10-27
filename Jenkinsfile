@@ -10,7 +10,7 @@ pipeline {
         SNAP_REPO = 'vprofile-snapshot'
         NEXUS_USER = 'admin'
         NEXUS_PASS = '123'
-        NEXUS_IP = '172.31.37.220'
+        NEXUS_IP = '172.31.38.218'
         CENTRAL_REPO = 'vpro-maven-central'
         NEXUSPORT = '8081'
         RELEASE_REPO = 'vprofile-release'
